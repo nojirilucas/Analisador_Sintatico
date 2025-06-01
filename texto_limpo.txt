@@ -1,8 +1,0 @@
-int main() {
-    int valor;
-    valor = 10 + 20;
-    real saldo = 150.75;
-    char inicial = 'J';
-    printf("Teste"); // Simples, um argumento string
-    return 0;
-}
