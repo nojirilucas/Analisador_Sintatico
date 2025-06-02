@@ -171,7 +171,7 @@ if __name__ == "__main__":
     try:
         with open(nome_arquivo_teste, "w", encoding="utf-8") as f_example:
              f_example.write("int main() {\n")
-             f_example.write("    int valor = 10 + 20;\n")
+             f_example.write("    int valor = 10 + 20;\n") #nt valor = 10 @ 20;\n
              f_example.write("    real saldo = 150.75;\n")
              f_example.write("    char inicial = 'J';\n")
              f_example.write("    printf(\"Teste\");\n")
